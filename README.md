@@ -1,4 +1,4 @@
-# Cat EEGLAB data
+# Cat intracranial data
 
 EEGLAB datasets from local and roving paradigms. Each dataset is a paired `.set` metadata file and `.fdt` float32 signal file; `_dvt` denotes deviant trials and `_std` denotes standard trials.
 
